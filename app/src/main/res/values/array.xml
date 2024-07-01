@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="security_levels">
+        <item>Minimum</item>
+        <item>Medium</item>
+        <item>Maximum</item>
+    </string-array>
+    <string-array name="marital_status_options">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Divorced</item>
+        <item>Widowed</item>
+    </string-array>
+    <string-array name="crime_options">
+        <item>Murder</item>
+        <item>Theft</item>
+        <item>Assault</item>
+        <item>Drug Possession</item>
+        <item>Fraud</item>
+    </string-array>
+</resources>

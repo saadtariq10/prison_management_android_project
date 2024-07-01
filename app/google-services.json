@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913344701637",
+    "project_id": "prison-48425",
+    "storage_bucket": "prison-48425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913344701637:android:9672bff88a6066d7c1bcac",
+        "android_client_info": {
+          "package_name": "com.example.prison"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ABQ_XE-p2TV5gXjEpsju6xfAQ6licxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
